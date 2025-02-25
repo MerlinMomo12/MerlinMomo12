@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerlinMomo12
 - 👀 I’m interested in Minecraft Bots and websites
-- 🌱 I’m currently learning js, html and css
+- 🌱 I’m currently learning js, html and css an a bit SQL ;)
 - 😄 Pronouns: he
 
 <!---
