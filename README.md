@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerlinMomo12
-- 👀 I’m interested in Minecraft Bots and websites
-- 🌱 I’m currently learning js, html and css an a bit SQL ;)
+- 👀 I’m interested in Network and Server stuff
+- 🌱 I’m currently learning Network and Server stuff like Docker or nginx ;)
 - 😄 Pronouns: he 
 - 🪄 I like Magic :D
 <!---
